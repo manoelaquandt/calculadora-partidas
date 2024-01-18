@@ -1,4 +1,4 @@
-/ Função que calcula o nível do jogador com base nas vitórias e derrotas
+//Função que calcula o nível do jogador com base nas vitórias e derrotas
 function calcularNivel(vitorias, derrotas) {
     // Calcula o saldo de Ranqueadas
     const saldoVitorias = vitorias - derrotas;
